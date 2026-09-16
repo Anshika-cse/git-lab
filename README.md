@@ -7,4 +7,5 @@ Open the project folder in VS Code and
 view the project files. 
 Version control practical - MAIN AND FEATURE
 ## Feature Update
-This section was added using a Git feature branch.
+This section was added using a Git feature branch.## Feature Update
+This project demonstrates basic Git and GitHub workflow.
