@@ -5,6 +5,6 @@ GitHub operations.
 ## How to Run
 Open the project folder in VS Code and 
 view the project files. 
-Version control practical
+Version control practical - MAIN
 ## Feature Update
 This section was added using a Git feature branch.
