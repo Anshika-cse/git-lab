@@ -9,3 +9,4 @@ Version control practical - MAIN AND FEATURE
 ## Feature Update
 This section was added using a Git feature branch.## Feature Update
 This project demonstrates basic Git and GitHub workflow.
+Conflict practice line - MAIN
